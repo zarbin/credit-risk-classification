@@ -81,5 +81,5 @@ Machine Learning Model **2**, Logistic Regression **using raw data and Random Ov
 
 **Question:** How well does the logistic regression model, fit with oversampled data, predict both the `0` (healthy loan) and `1` (high-risk loan) labels?
 
-**Answer:** For the oversampled data, the model was extremely accurate at 99%.  Also there was improvment in model accuraccy as it predicted 99% of the laons that actually did default.  With only 4 false positives and 116 false negatives this model is reliable for predicting loans and an improvement on what our original training model. 
+**Answer:** For the oversampled data, the model was extremely accurate at 99%.  Also there was improvment in model accuraccy as it predicted 99% of the loans that actually did default.  With only 4 false positives and 116 false negatives this model is reliable for predicting loans and an improvement on what our original training model. 
 
